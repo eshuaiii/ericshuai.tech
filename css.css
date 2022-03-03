@@ -1,0 +1,33 @@
+h1 {
+    font-family: Raleway;
+    font-weight: 300;
+    text-align: center;
+}
+
+.subtitle p {
+    font-size: 0.9em;
+    font-weight: 100;
+}
+
+p {
+    font-family: Raleway;
+    font-weight: 200;
+    font-size:1.1em;
+    text-align: center;
+}
+
+a {
+    color: black;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    margin: 0;
+    line-height: 1em;
+    align-items: center;
+    justify-content: center;
+    vertical-align: top;
+    background-color:rgb(247, 255, 254);
+}
